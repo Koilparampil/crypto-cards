@@ -127,6 +127,6 @@ If you have any questions, please reach out to a contributor via GitHub:
 
 [Priscilla Ma](https://github.com/middlenamestar)
 
-[Chris Koilparampil](https://github.com/th3-0G-Kresher)
+[Chris Koilparampil](https://github.com/Koilparampil)
 
 [Jennifer Truong](https://github.com/jentruong09)
